@@ -3,4 +3,5 @@ public class exercicio_01 {
         // O comando System.out.println exibirá o texto e pulará uma linha
         System.out.println("Olá mundo!");
     }
+    
 }
